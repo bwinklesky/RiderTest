@@ -1,7 +1,5 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiderTest", "RiderTest\RiderTest.csproj", "{390FC5CC-81DC-4030-BF97-5746E26144EE}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Applications", "Applications", "{7A89EC3E-0ABF-49F2-9B74-0BD8718D04E2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiApp1", "Applications\MauiApp1\MauiApp1.csproj", "{17FD9DC3-67E8-4CF7-8CF1-824726CC7F91}"
@@ -18,10 +16,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{390FC5CC-81DC-4030-BF97-5746E26144EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{390FC5CC-81DC-4030-BF97-5746E26144EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{390FC5CC-81DC-4030-BF97-5746E26144EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{390FC5CC-81DC-4030-BF97-5746E26144EE}.Release|Any CPU.Build.0 = Release|Any CPU
 		{17FD9DC3-67E8-4CF7-8CF1-824726CC7F91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{17FD9DC3-67E8-4CF7-8CF1-824726CC7F91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17FD9DC3-67E8-4CF7-8CF1-824726CC7F91}.Release|Any CPU.ActiveCfg = Release|Any CPU
